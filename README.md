@@ -79,4 +79,7 @@ or sentences in the future.
 
 ## 👩‍💻 Author
 **Aneela**  
-IT Student | Aspiring AI Engineer  
+IT Student | Aspiring AI Engineer   
+Passionate about Machine Learning and Deep Learning  
+Skilled in Python, TensorFlow, Keras, and Scikit-learn  
+Focused on building real-world AI-driven projects and continuous learning
