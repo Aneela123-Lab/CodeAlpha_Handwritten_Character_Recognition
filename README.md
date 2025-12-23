@@ -1,7 +1,4 @@
 # CodeAlpha_Handwritten_Character_Recognition
-Handwritten Character Recognition using CNN (MNIST Dataset) built as part of the CodeAlpha Machine Learning Internship.
-
-# CodeAlpha_Handwritten_Character_Recognition
 
 Handwritten Character Recognition system built using **Deep Learning (CNN)**  
 as part of the **CodeAlpha Machine Learning Internship**.
@@ -62,12 +59,12 @@ The model shows excellent performance and generalization ability.
 
 ## 📁 Project Structure
 
-
 CodeAlpha_Handwritten_Character_Recognition/
 │
 ├── Handwritten_Character_Recognition.ipynb
-├── model.keras
 ├── README.md
+├── model.keras
+
 
 
 ## ✅ Conclusion
